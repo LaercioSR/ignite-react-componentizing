@@ -20,9 +20,9 @@
 
 Platform for listing movies. Repository containing the solving the basic concepts challenge developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-componentizing/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
-</p> -->
+</p>
 
 ## Features
 
