@@ -11,7 +11,6 @@
 
 <p align="center">
  <a href="#about">About</a> •
- <a href="#features">Features</a> •
  <a href="#how-to-run">How to Run</a> •
  <a href="#technologies">Technologies</a>
 </p>
@@ -23,12 +22,6 @@ Platform for listing movies. Repository containing the solving the basic concept
 <p align="center">
   <img src="https://raw.githubusercontent.com/LaercioSR/ignite-react-componentizing/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
 </p>
-
-## Features
-
-- [x] Add a new task
-- [x] Remove a task
-- [x] Mark and unmark a task as complete
 
 ## How to Run
 
