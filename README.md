@@ -6,7 +6,7 @@
 <h1 align="center">Challenge Componentizing the Application</h1>
 
 <h4 align="center">
- 🚧  Challenge in Progress  🚧
+ ✅  Challenge Completed  ✅
 </h4>
 
 <p align="center">
